@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      City Operations Manager ()
+title:      City Operations Manager (도시운영팀장)
 summary:    
 categories: jekyll pixyll
 ---
