@@ -5,4 +5,4 @@ summary:
 categories: jekyll pixyll
 ---
 
-<strong>How to apply:</strong> If you’re interested, please email your resume to <a href="mailto:victor@getmiso.com">victor@getmiso.com</a>.
+<strong>지원 방법 :</strong> 이메일(<a href="mailto:victor@getmiso.com">victor@getmiso.com</a>)로 자유형식 지원서 제출 (채용시까지)
