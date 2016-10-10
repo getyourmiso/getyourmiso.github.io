@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% assign posts_count = (paginator.posts | size) %}
+
+<div class="home">
+  <div>
+    <p><strong>About our company</strong></p>
+    <p><br />Miso builds technology that brings joy to our lives. Our flagship service allows customers to instantly book quality home cleanings. Within a year, we went from nonexistence to serving thousands of customers on a weekly basis. This is just the start and we are looking for great people to build this company together with.</p>
+    <p>Our founding team is product driven and we put engineering at the forefront despite this being an operationally intensive business. Victor Ching, was previously Chief Product Officer at Yogiyo, where he led the product and engineering teams. Haksu Lee, holds a masters in engineering from KAIST and worked at companies such as AhnLab and Samsung. Other members of our team have experience at companies such as Yogiyo and Coupang.</p>
+    <p>We have access to an amazing list of investors and advisors which we actively engage. We are a Y Combinator company and have also been funded by institutional investors such as Primer, Sazze Partners, Strong Ventures and FundersClub. We are also backed by angel investors such as Geoff Ralston (Partner at Y Combinator), Perry Tam (CEO of Storm8) and Josh Buckley (CEO of Mino Games).</p>
+  </div>
+  {% if posts_count > 0 %}
+    <div class="posts">
+      <p><br /><strong>Our openings</strong></p>
+      {% for post in paginator.posts %}
+        <div class="post py3">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+        </div>
+      {% endfor %}
+    </div>
+
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
+  {% endif %}
+</div>
