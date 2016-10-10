@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      서버 개발자
+title:      Backend Engineer (서버 개발자)
 summary:    
 categories: jekyll pixyll
 ---

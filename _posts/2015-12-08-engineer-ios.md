@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS 개발자
+title:      Full Stack iOS Engineer (iOS 개발자)
 summary:    
 categories: jekyll pixyll
 ---

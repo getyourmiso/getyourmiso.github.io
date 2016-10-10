@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      오피스 메니저
+title:      Office Manager (오피스 메니저)
 summary:    
 categories: jekyll pixyll
 ---
