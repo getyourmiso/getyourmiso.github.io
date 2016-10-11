@@ -10,7 +10,6 @@ The City Operations Manager is a unique opportunity to help drive growth through
 This is an intense business side startup role and continual improvement and a focus on quality are imperative. This data driven role calls for a rare combination of analytical thinking, empathy to manage cleaner relationships and to be the owner of operational performance of your city. You will be required to utilize and build tools that monitor cleaner behavior and ensure efficiency through asset utilization, network optimization and cleaner supply growth.
 
 <strong>What you will do</strong>
-
 <ul>
 	<li>Take ownership of Miso’s growth in your city</li>
 	<li>Be on the front lines for cleaner on boarding and training</li>
