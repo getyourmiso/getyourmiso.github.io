@@ -30,7 +30,7 @@ categories: jekyll pixyll
 
 <strong>보상</strong>
 <ul>
-	<li>스톡옵션</li>
+	<li>스톡옵션 제도</li>
 	<li>팀과 함께 성장해나갈 수 있는 최고의 기회. 각 도시별 전략 기획 및 방향 설정</li>
 	<li>미소에서 제공하는 홈클리닝 서비스</li>
 </ul>
